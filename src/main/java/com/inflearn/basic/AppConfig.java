@@ -1,7 +1,6 @@
 package com.inflearn.basic;
 
 import com.inflearn.basic.discount.DiscountPolicy;
-import com.inflearn.basic.discount.FixDiscountPolicy;
 import com.inflearn.basic.discount.RateDicountPolicy;
 import com.inflearn.basic.member.MemberRepository;
 import com.inflearn.basic.member.MemberService;
